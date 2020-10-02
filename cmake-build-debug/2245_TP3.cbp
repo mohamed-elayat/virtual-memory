@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2245_TP3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mo/CLionProjects/2245_TP3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mo/CLionProjects/2245_TP3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2245_TP3">
+				<Option output="/home/mo/CLionProjects/2245_TP3/cmake-build-debug/2245_TP3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mo/CLionProjects/2245_TP3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 2245_TP3"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2245_TP3/fast">
+				<Option output="/home/mo/CLionProjects/2245_TP3/cmake-build-debug/2245_TP3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mo/CLionProjects/2245_TP3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 2245_TP3/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mo/CLionProjects/2245_TP3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/mo/CLionProjects/2245_TP3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/common.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/common.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/conf.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/parse.tab.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/parse.tab.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/pm.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/pm.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/pt.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/pt.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/tlb.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/tlb.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/tokens.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/vmm.c">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/src/vmm.h">
+			<Option target="2245_TP3"/>
+		</Unit>
+		<Unit filename="/home/mo/CLionProjects/2245_TP3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

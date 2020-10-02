@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="2245_TP3" targetName="2245_TP3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5e10d82-0c25-4758-82d5-adcf9222b7a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gdb_history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GNUmakefile" beforeDir="false" afterPath="$PROJECT_DIR$/GNUmakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pm.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/pm.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pt.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/pt.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tlb.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/tlb.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vmm" beforeDir="false" afterPath="$PROJECT_DIR$/build/vmm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vmm.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/vmm.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/pm_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/pm_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/pt_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/pt_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/conf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pm.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/pm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pm.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/pm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tlb.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/tlb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tlb.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/tlb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/vmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vmm.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/vmm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/BACKING_STORE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/BACKING_STORE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/command (copy).in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/command.in" beforeDir="false" afterPath="$PROJECT_DIR$/tests/command.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/command1.in" beforeDir="false" afterPath="$PROJECT_DIR$/tests/command1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/command2.in" beforeDir="false" afterPath="$PROJECT_DIR$/tests/command2.in" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bEq99iKRsNvq2nq4dYCkDNkZYH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="2245_TP3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2245_TP3" TARGET_NAME="2245_TP3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2245_TP3" RUN_TARGET_NAME="2245_TP3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e10d82-0c25-4758-82d5-adcf9222b7a2" name="Default Changelist" comment="" />
+      <created>1588207446444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588207446444</updated>
+      <workItem from="1588207449511" duration="1427000" />
+      <workItem from="1588210183701" duration="6071000" />
+      <workItem from="1588261479608" duration="3162000" />
+      <workItem from="1588267752331" duration="14965000" />
+      <workItem from="1588283945544" duration="11075000" />
+      <workItem from="1588299436554" duration="6320000" />
+      <workItem from="1588335802248" duration="12667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1191" height="111" key="GridCell.Tab.0.bottom" timestamp="1588302063810">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state width="1191" height="111" key="GridCell.Tab.0.bottom/67.0.1237.745@67.0.1237.745" timestamp="1588302063810" />
+    <state width="1191" height="111" key="GridCell.Tab.0.center" timestamp="1588302063809">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state width="1191" height="111" key="GridCell.Tab.0.center/67.0.1237.745@67.0.1237.745" timestamp="1588302063809" />
+    <state width="1191" height="111" key="GridCell.Tab.0.left" timestamp="1588302063809">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state width="1191" height="111" key="GridCell.Tab.0.left/67.0.1237.745@67.0.1237.745" timestamp="1588302063809" />
+    <state width="1191" height="111" key="GridCell.Tab.0.right" timestamp="1588302063810">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state width="1191" height="111" key="GridCell.Tab.0.right/67.0.1237.745@67.0.1237.745" timestamp="1588302063810" />
+    <state x="341" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1588335804397">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state x="341" y="199" key="com.intellij.ide.util.TipDialog/67.0.1237.745@67.0.1237.745" timestamp="1588335804397" />
+    <state x="349" y="163" key="run.anything.popup" timestamp="1588338543462">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state x="349" y="163" key="run.anything.popup/67.0.1237.745@67.0.1237.745" timestamp="1588338543462" />
+    <state x="348" y="66" width="672" height="678" key="search.everywhere.popup" timestamp="1588286841910">
+      <screen x="67" y="0" width="1237" height="745" />
+    </state>
+    <state x="348" y="66" width="672" height="678" key="search.everywhere.popup/67.0.1237.745@67.0.1237.745" timestamp="1588286841910" />
+  </component>
+</project>
